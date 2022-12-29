@@ -1,2 +1,2 @@
-# iris-frontend
-Iris's frontend made in react
+# IrisUI
+This is the Main Directory for iris's UI.
